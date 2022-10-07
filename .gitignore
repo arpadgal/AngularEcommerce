@@ -7,3 +7,4 @@ appsettings.json
 *.user
 *.db-wal
 *.db-shm
+.angular
