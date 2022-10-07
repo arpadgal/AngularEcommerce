@@ -2,3 +2,8 @@ obj
 bin
 appsettings.json
 *.rdb
+.vs
+.vscode
+*.user
+*.db-wal
+*.db-shm
